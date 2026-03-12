@@ -108,3 +108,4 @@ tools/*/
 package3
 
 stratosphere/test/
+!buildTools
