@@ -110,3 +110,5 @@ package3
 stratosphere/test/
 
 !buildTools
+
+!.woodpecker
